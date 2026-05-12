@@ -2,7 +2,7 @@
   "name": "melnychuk-anastasiia-portfolio",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://ghhap.github.io/my-portfolio-spa",
+  "homepage": "https://github.com/ArfaRaven/my-portfolio-spa",
   "type": "module",
   "scripts": {
     "dev": "vite",
